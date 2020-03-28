@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/opening_creak.ogg-c8335ec2ff7393bb6524586f8a97e32d.oggstr"
+
+[deps]
+
+source_file="res://opening_creak.ogg"
+dest_files=[ "res://.import/opening_creak.ogg-c8335ec2ff7393bb6524586f8a97e32d.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0
